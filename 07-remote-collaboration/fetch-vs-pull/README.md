@@ -52,6 +52,15 @@ git diff main origin/main
 git merge origin/main
 ```
 
+## 📊 Visual Diagrams
+
+See detailed workflows in [diagrams.md](diagrams.md) including:
+- Fetch vs pull comparison
+- Fetch + merge process
+- Fetch + rebase process
+- Push scenarios
+- Pull request workflow
+
 ---
 
 [← Back to Section 7](../README.md) | [→ Next Topic](../fork-vs-clone/README.md)

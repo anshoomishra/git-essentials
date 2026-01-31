@@ -17,6 +17,16 @@ By the end of this section, you'll understand:
 - How to inspect history
 - How to fix commits without creating new ones
 
+## 📊 Visualizations
+
+See [diagrams.md](diagrams.md) for visual presentations of:
+- Working directory, staging area, and repository
+- Git add vs git commit workflow
+- Git commit vs git commit -a
+- Git log vs git reflog
+- Amend vs new commit
+- Commit message best practices
+
 ---
 
 [← Back to Main](../README.md) | [Next: Section 3 →](../03-branching/README.md)

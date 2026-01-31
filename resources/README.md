@@ -4,11 +4,18 @@ Supporting materials for the Git VS Series.
 
 ## 📚 Files in This Section
 
-1. **common-mistakes.md** - Learn from common Git mistakes and recovery strategies
-2. **recovery-cheatsheet.md** - Quick reference for emergency Git situations
-3. **interview-questions.md** - Prepare for technical interviews with Git questions
+1. **diagrams-guide.md** - How to read and use the ASCII diagrams throughout the tutorial
+2. **common-mistakes.md** - Learn from common Git mistakes and recovery strategies
+3. **recovery-cheatsheet.md** - Quick reference for emergency Git situations
+4. **interview-questions.md** - Prepare for technical interviews with Git questions
 
 ## 🎯 How to Use These Resources
+
+### diagrams-guide.md
+- Explains all ASCII diagram symbols and conventions
+- Shows where diagrams are located in the tutorial
+- Guide to reading and understanding visual explanations
+- Offline reference for ASCII art symbols
 
 ### common-mistakes.md
 - Reference when something goes wrong

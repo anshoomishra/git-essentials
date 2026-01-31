@@ -23,6 +23,15 @@ By the end of this section, you'll understand:
 
 These concepts separate intermediate developers from experts. Master these, and Git becomes intuitive.
 
+## 📊 Visualizations
+
+Complex diagrams are crucial here:
+- **merge-vs-rebase/** - See [diagrams.md](merge-vs-rebase/diagrams.md)
+  - Diverged branches problem
+  - Merge vs rebase comparison
+  - History comparison
+  - Decision tree
+
 ---
 
 [← Back to Main](../README.md) | [Next: Section 5 →](../05-undo-recovery/README.md)

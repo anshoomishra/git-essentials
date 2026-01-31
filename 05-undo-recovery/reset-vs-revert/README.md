@@ -56,6 +56,16 @@ Need to completely remove commits?
   └─> git reset (be careful!)
 ```
 
+## 📊 Detailed Diagrams
+
+See comprehensive visual explanations in [diagrams.md](diagrams.md) including:
+- The three states visualization
+- Reset step-by-step
+- Revert step-by-step
+- Three reset modes (--soft, --mixed, --hard)
+- Reset vs revert comparison table
+- Practical scenarios
+
 ---
 
 [← Back to Section 5](../README.md) | [→ Next Topic](../soft-vs-mixed-vs-hard/README.md)

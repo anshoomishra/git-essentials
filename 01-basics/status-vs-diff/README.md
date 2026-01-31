@@ -45,7 +45,11 @@ git diff --staged           # Staged changes
 git diff <branch1> <branch2> # Compare branches
 ```
 
-## 🔄 Common Workflow
+## � Visual Diagram
+
+See the visual comparison in [../diagrams.md#4-git-status-vs-git-diff](../diagrams.md#4-git-status-vs-git-diff)
+
+## �🔄 Common Workflow
 
 1. Make changes to files
 2. `git status` → See overview

@@ -44,6 +44,10 @@ git clone https://github.com/yourname/project.git
 5. Push to your fork
 6. Submit a pull request to the original project
 
+## 📊 Visual Diagram
+
+See the visual workflow in [../diagrams.md#1-fork-vs-clone](../diagrams.md#1-fork-vs-clone)
+
 ---
 
 [← Back to Section 7](../README.md) | [→ Next Topic](../origin-vs-upstream/README.md)

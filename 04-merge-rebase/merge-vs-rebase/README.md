@@ -64,6 +64,15 @@ git rebase main
 
 If your branch is only yours (local), rebasing is safe and preferred. Once pushed, treat history as immutable.
 
+## 📊 Detailed Diagrams
+
+See comprehensive visual explanations in [diagrams.md](diagrams.md) including:
+- The diverged branches problem
+- Step-by-step merge process
+- Step-by-step rebase process
+- History comparison (side-by-side)
+- Decision tree and workflow examples
+
 ---
 
 [← Back to Section 4](../README.md) | [→ Next Topic](../fast-forward-vs-non-ff/README.md)

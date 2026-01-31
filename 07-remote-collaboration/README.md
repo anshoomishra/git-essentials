@@ -18,6 +18,15 @@ By the end of this section, you'll understand:
 - Contributing to open source
 - Team-friendly practices
 
+## 📊 Visualizations
+
+See [fetch-vs-pull/diagrams.md](fetch-vs-pull/diagrams.md) for visual presentations of:
+- Fork vs clone
+- Origin vs upstream
+- Fetch vs pull workflows
+- Push scenarios and conflicts
+- Pull request workflow
+
 ---
 
 [← Back to Main](../README.md) | [Next: Section 8 →](../08-advanced/README.md)

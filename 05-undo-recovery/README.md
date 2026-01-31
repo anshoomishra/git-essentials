@@ -21,6 +21,15 @@ By the end of this section, you'll understand:
 
 Git is very forgiving. Most "mistakes" can be recovered with `git reflog`.
 
+## 📊 Visualizations
+
+See [diagrams.md](diagrams.md) for visual presentations of:
+- Three modes of git reset
+- Reset vs revert comparison
+- Git reflog: your safety net
+- Lost commits recovery
+- Recovery decision tree
+
 ---
 
 [← Back to Main](../README.md) | [Next: Section 6 →](../06-stash/README.md)

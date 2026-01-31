@@ -107,11 +107,12 @@ This course focuses on:
 1. Start with **SECTION 1** to build a strong foundation
 2. Each folder contains:
    - `README.md` - Detailed explanation with mental models
+   - `diagrams.md` - Visual ASCII presentations (available in key sections)
    - `examples.sh` - Step-by-step bash examples
-   - `diagrams.md` - Visual representations where applicable
 3. Follow the examples in order
 4. Practice with your own repository
 5. Reference the recovery cheatsheet when you make mistakes
+6. See [DIAGRAMS_INDEX.md](DIAGRAMS_INDEX.md) for complete visual guide
 
 ## 🗂️ Folder Structure
 

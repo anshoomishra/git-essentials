@@ -21,6 +21,7 @@ By the end of this section, you'll understand:
 
 ```
 01-basics/
+├── diagrams.md              ← Visual explanations
 ├── init-vs-clone/
 │   ├── README.md
 │   └── examples.sh
@@ -31,6 +32,14 @@ By the end of this section, you'll understand:
     ├── README.md
     └── examples.sh
 ```
+
+## 📊 Visualizations
+
+See [diagrams.md](diagrams.md) for visual presentations of:
+- Working directory vs staging area vs repository
+- Untracked vs tracked files
+- git init vs git clone
+- git status vs git diff
 
 ## 🚀 Next Steps
 

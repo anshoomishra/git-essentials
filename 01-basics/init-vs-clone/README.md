@@ -70,7 +70,11 @@ git clone <url> <directory-name>   # Clone into specific directory
 
 See [examples.sh](examples.sh) for hands-on commands.
 
-## 💡 Common Mistakes
+## � Visual Diagram
+
+See the visual explanation in [../diagrams.md#3-git-init-vs-git-clone](../diagrams.md#3-git-init-vs-git-clone)
+
+## �💡 Common Mistakes
 
 1. **Using `git init` for an existing project** - Instead, use `git clone`
 2. **Forgetting the remote after `git init`** - You need to add: `git remote add origin <url>`

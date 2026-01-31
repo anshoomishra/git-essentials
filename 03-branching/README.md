@@ -17,6 +17,14 @@ By the end of this section, you'll understand:
 - Branching strategies for teams
 - When to create branches and when to merge them
 
+## 📊 Visualizations
+
+See [diagrams.md](diagrams.md) for visual presentations of:
+- What branches are and how they work
+- Creating and switching branches
+- Branch lifecycle and naming conventions
+- Long-lived vs short-lived branches
+
 ---
 
 [← Back to Main](../README.md) | [Next: Section 4 →](../04-merge-rebase/README.md)
